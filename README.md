@@ -18,4 +18,4 @@
 → Seção de serviços oferecidos
 
 <h2>Hospedagem</h2>
-<p>Este projeto está atualmente hospedado no Netlify. Você pode acessar a landing page <a href="https://projetopetlife-onebitcode.netlify.app/">aqui.</a>.</p>
+<p>Este projeto está atualmente hospedado no Netlify. Você pode acessar a landing page <a href="https://projetopetlife-onebitcode.netlify.app/">aqui</a>.</p>
